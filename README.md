@@ -20,7 +20,7 @@
 <img align="left" alt="Qiskit" width="26px" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Scala" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/scala-226059.png" />
-<img align="left" alt="Spark" width="26px" src="https://symbols.getvecta.com/stencil_74/40_apache-spark-icon.b3f8a606f9.png" />
+<img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Pytorch" width="26px" src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://sdtimes.com/wp-content/uploads/2017/12/21_d3cvM_400x400.png" />
 <img align="left" alt="Kubeflow" width="26px" src="https://www.kubeflow.org/docs/images/logos/Pipeline.png" />
