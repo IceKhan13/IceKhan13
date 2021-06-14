@@ -1,7 +1,7 @@
 ### Hi there, I'm Iskandar 👋
 
 ## I'm a quantum computing and MLOps enthusiast!
-- 📐 Solutions architect @ [Provectus][provectus]
+- 📐 Developer advocate @ [IBM Quantum][ibm]
 - ➡️ Contributor to [Qiskit][qiskit]
 - 📈 Data science and ML
 - ⚛️ Quantum computing
@@ -39,7 +39,7 @@
 
 <img align="left" alt="IceKhan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IceKhan13&show_icons=true&hide_border=true" />
 
-[provectus]: https://provectus.com/
+[ibm]: https://www.ibm.com/quantum-computing/developers
 [qiskit]: https://qiskit.org/
 [instagram]: https://www.instagram.com/icekhan13/
 [linkedin]: https://www.linkedin.com/in/icekhan/
