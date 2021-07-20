@@ -37,8 +37,6 @@
 ---
 
 
-<img align="left" alt="IceKhan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IceKhan13&show_icons=true&hide_border=true" />
-
 [ibm]: https://www.ibm.com/quantum-computing/developers
 [qiskit]: https://qiskit.org/
 [instagram]: https://www.instagram.com/icekhan13/
