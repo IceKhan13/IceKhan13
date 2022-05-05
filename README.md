@@ -1,10 +1,4 @@
-### Hi there, I'm Iskandar 👋
-
-## I'm a quantum computing and MLOps enthusiast!
-- 📐 Developer advocate @ [IBM Quantum][ibm]
-- ➡️ Contributor to [Qiskit][qiskit]
-- 📈 Data science and ML
-- ⚛️ Quantum computing
+### Hi there, I'm Iskandar 👋 SWE at Qiskit / IBM Quantum
 
 ### Connect with me:
 
