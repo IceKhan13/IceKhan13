@@ -8,24 +8,6 @@
 [<img align="left" alt="IceKhan13 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
-
-### Languages and Tools:
-
-<img align="left" alt="Qiskit" width="26px" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" />
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="Scala" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/scala-226059.png" />
-<img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Pytorch" width="26px" src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://sdtimes.com/wp-content/uploads/2017/12/21_d3cvM_400x400.png" />
-<img align="left" alt="Kubeflow" width="26px" src="https://www.kubeflow.org/docs/images/logos/Pipeline.png" />
-<img align="left" alt="AWS" width="26px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" />
-<img align="left" alt="Airflow" width="26px" src="https://miro.medium.com/max/1080/1*t1oDj6glJBSSHhqJZJxJOA.png" />
-<img align="left" alt="Django" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png" />
-<img align="left" alt="React" width="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" />
-
-
-
-<br />
 <br />
 
 ---
