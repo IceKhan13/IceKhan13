@@ -1,4 +1,4 @@
-### Hi there, I'm Iskandar 👋 SWE at Qiskit / IBM Quantum
+### Hi there, I'm Iskandar 👋
 
 ### Connect with me:
 
